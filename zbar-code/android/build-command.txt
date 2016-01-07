@@ -1,0 +1,2 @@
+ant -Dndk.dir=/Users/antram/Library/android-ndk-r9d  -Diconv.src=/Users/antram/Documents/Appcelerator_Studio_Workspace/some_work_dir/libiconv-1.14 zbar-clean zbar-all
+
